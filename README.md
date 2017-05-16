@@ -1,5 +1,7 @@
 # XLKit
 
+平时用到过的工具或者看到过比较好的动画效果就会复写一下，这里整理的是写过的一些工具类。
+
 |.|.|.|
 |:---:|:---:|:---:|
 |![image](https://github.com/mengxianliang/XLTieBaLoading/raw/master/Image/1.gif)|![image](https://github.com/mengxianliang/XLChannelControl/raw/master/GIF/3.gif)|![image](https://github.com/mengxianliang/XLCardSwitch/raw/master/1.gif)|
