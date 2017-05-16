@@ -1,8 +1,8 @@
 # XLKit
 
-** 平时用到过的工具或者看到过比较好的动画效果就会复写一下，这里整理的是写过的一些工具类。**
+** 平时用到过的工具或者看到过比较好的动画效果就会复写一下，这里整理的是写过的一些工具类。 **
 
-|.|.|.|
+|Hello|World|!|
 |:---:|:---:|:---:|
 |![image](https://github.com/mengxianliang/XLSlideMenu/raw/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLSlideSwitch/raw/master/GIF/1-1.gif)|![image](https://github.com/mengxianliang/XLChannelControl/raw/master/GIF/3.gif)|
 |[XLSlideMenu](https://github.com/mengxianliang/XLSlideMenu)<br>仿QQ滑动菜单|[XLSlideSwitch](https://github.com/mengxianliang/XLSlideSwitch)<br>仿今日头条滚动列表|[XLChannelControl](https://github.com/mengxianliang/XLChannelControl)<br>仿腾讯新闻频道管理功能|
