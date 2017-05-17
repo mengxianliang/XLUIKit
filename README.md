@@ -4,9 +4,9 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)&nbsp;
 [![CocoaPods](http://img.shields.io/cocoapods/v/YYKit.svg?style=flat)](http://cocoapods.org/?q=YYKit)&nbsp;
 [![CocoaPods](http://img.shields.io/cocoapods/p/YYKit.svg?style=flat)](http://cocoapods.org/?q=YYKit)&nbsp;
-[![Support](https://img.shields.io/badge/support-iOS%206%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
-[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
+[![支持版本](https://img.shields.io/badge/support-iOS%208%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
+[![许可](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
+[![编译](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
 
 ### 这里整理了一些之前写过的UI工具类，不断更新中。
 
