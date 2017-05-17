@@ -1,9 +1,8 @@
 # XLKit
 
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ibireme/YYKit/master/LICENSE)&nbsp;
-[![CocoaPods](http://img.shields.io/cocoapods/p/YYKit.svg?style=flat)](http://cocoapods.org/?q=YYKit)&nbsp;
-[![支持版本](https://img.shields.io/badge/support-iOS%208%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
-[![编译](https://img.shields.io/travis/rust-lang/rust/master.svg)]()
+[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/mengxianliang/XLKit/blob/master/LICENSE)&nbsp;
+[![iOS Support](https://img.shields.io/badge/support-iOS%208%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;
+[![Build](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/mengxianliang/XLKit)
 
 ### 这里整理了一些之前写过的UI工具类，不断更新中。
 
