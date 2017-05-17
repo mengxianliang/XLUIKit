@@ -5,7 +5,7 @@
 |Hello|World|!|
 |:---:|:---:|:---:|
 |![image](https://github.com/mengxianliang/XLSlideMenu/raw/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLSlideSwitch/raw/master/GIF/1-1.gif)|![image](https://github.com/mengxianliang/XLChannelControl/raw/master/GIF/3.gif)|
-|[XLSlideMenu](https://github.com/mengxianliang/XLSlideMenu)<br>`仿QQ滑动菜单`|[XLSlideSwitch](https://github.com/mengxianliang/XLSlideSwitch)<br>`仿今日头条滚动列表`|[XLChannelControl](https://github.com/mengxianliang/XLChannelControl)<br>`仿腾讯新闻频道管理功能`|
+|[XLSlideMenu](https://github.com/mengxianliang/XLSlideMenu)<br>*仿QQ滑动菜单*|[XLSlideSwitch](https://github.com/mengxianliang/XLSlideSwitch)<br>`仿今日头条滚动列表`|[XLChannelControl](https://github.com/mengxianliang/XLChannelControl)<br>`仿腾讯新闻频道管理功能`|
 |![image](https://github.com/mengxianliang/XLCardSwitch/raw/master/1.gif)|![image](https://github.com/mengxianliang/XLRefresh/raw/master/GIF/2.gif)|![image](https://github.com/mengxianliang/XLImageViewer/raw/master/GIF/2-1.gif)|
 |[XLCardSwitch](https://github.com/mengxianliang/XLCardSwitch)<br>`居中放大显示的图片浏览工具`|[XLRefresh](https://github.com/mengxianliang/XLRefresh)<br>`下拉刷新工具，支持ScrollView及其子类。`|[XLImageViewer](https://github.com/mengxianliang/XLImageViewer)<br>`图片浏览工具，支持本地、网络图片显示`|
 |![image](https://github.com/mengxianliang/XLUIFont/raw/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLBubbleTransition/raw/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLPaymentHUD/raw/master/GIF/1.gif)|
