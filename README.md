@@ -18,3 +18,9 @@
 |[XLTieBaLoading](https://github.com/mengxianliang/XLTieBaLoading)<br>*仿百度贴吧加载动画*|[XLDotLoading](https://github.com/mengxianliang/XLDotLoading)<br>*仿新浪微博红包加载动画*|[XLBallLoading](https://github.com/mengxianliang/XLBallLoading)<br>*球形加载动画*|
 |![image](https://github.com/mengxianliang/XLWaveProgress/raw/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLCircleProgress/raw/master/1.gif)|![image](https://github.com/mengxianliang/XLCycleCollectionView/raw/master/Gif/1.gif)|
 |[XLWaveProgress](https://github.com/mengxianliang/XLWaveProgress)<br>*波浪加载动画*|[XLCircleProgress](https://github.com/mengxianliang/XLCircleProgress)<br>*带有渐变色效果的进度显示动画*|[XLCycleCollectionView](https://github.com/mengxianliang/XLCycleCollectionView)<br>*无线轮播效果*|
+|![image](https://github.com/mengxianliang/XLPlayButton/blob/master/GIF/1.gif)|||
+|[XLPlayButton](https://github.com/mengxianliang/XLPlayButton)<br>*爱奇艺播放按钮*|||
+
+
+
+
