@@ -1,4 +1,3 @@
-# XLUIKit
 
 ![image](https://github.com/mengxianliang/ImageRepository/blob/master/XLUIKitLogo.png)
 
