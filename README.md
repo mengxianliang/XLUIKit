@@ -1,7 +1,6 @@
 ![image](https://github.com/mengxianliang/ImageRepository/blob/master/XLUIKitLogo.png)
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/mengxianliang/XLKit/blob/master/LICENSE)&nbsp;
-[![iOS Support](https://img.shields.io/badge/support-iOS%208%2B%20-blue.svg?style=flat)]
 
 ### 开发过的UI工具整理，持续更新中...（部分项目有实现原理的说明，欢迎交流）
 
