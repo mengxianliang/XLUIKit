@@ -7,7 +7,7 @@
 
 |Hello|World|!|
 |:---:|:---:|:---:|
-|![image](https://github.com/mengxianliang/XLDouYinLoading/blob/master/GIF/1.gif)|![image](https://github.com/mengxianliang/ImageRepository/blob/master/XLNavigationBar/weibo.gif)|![image](https://github.com/mengxianliang/ImageRepository/blob/master/XLNavigationBar/weibo.gif)|
+|![image](https://github.com/mengxianliang/XLDouYinLoading/blob/master/GIF/1.gif)|![image](https://github.com/mengxianliang/ImageRepository/blob/master/XLNavigationBar/weibo.gif)|![image](https://cdn.nlark.com/yuque/0/2020/gif/742903/1608802833096-65015593-5953-4a0b-a89c-7c2548ec7648.gif)|
 |[XLDouYinLoading](https://github.com/mengxianliang/XLDouYinLoading)<br>*抖音加载动画*|[XLNavigationBar](https://github.com/mengxianliang/XLNavigationBar)<br>*导航栏工具*||
 |![image](https://github.com/mengxianliang/XLFoldClock/blob/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLClock/blob/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLZoomHeader/blob/master/GIF/1.gif)|
 |[XLFoldClock](https://github.com/mengxianliang/XLFoldClock)<br>*翻页时钟*|[XLClock](https://github.com/mengxianliang/XLClock)<br>*锤子时钟*|[XLZoomHeader](https://github.com/mengxianliang/XLZoomHeader)<br>*缩放表头*|
