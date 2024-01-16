@@ -2,7 +2,7 @@
 
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/mengxianliang/XLKit/blob/master/LICENSE)&nbsp;
 
-### 开发过的UI工具整理，续更新中，部分项目有实现原理的博客说明，欢迎交流，欢迎Star！
+### 开发过的UI工具整理，续更新中，部分项目有实现原理的博客说明，欢迎交流，欢迎Star🌟
 *点击图片下方的链接进入对应的仓库*
 
 |Hello|World|!|
